@@ -7,7 +7,12 @@ using System.Web.Mvc;
 namespace Mvc4Samples.Controllers
 {
     public class HomeController : Controller
-    {
+    {   
+        /// <summary>
+        ///index
+        /// </summary>
+        /// <returns></returns>
+                
         public ActionResult Index()
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
