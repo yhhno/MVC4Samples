@@ -9,7 +9,7 @@ namespace Mvc4Samples.Controllers
     public class HomeController : Controller
     {   
         /// <summary>
-        ///index
+        ///index              真的
         /// </summary>
         /// <returns></returns>
                 
